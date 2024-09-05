@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushsingh1524
 - 👀 I’m interested in Inernships and Free Lancing Work 
-- 🌱 I’m currently learning Web Desinging , Ai Ml 
+- 🌱 I’m currently learning c , c++ , Ai Ml 
 - 📫 How to reach me Email : singhayush9179@gmail.com
 - 😄 Pronouns: He/Him
 
