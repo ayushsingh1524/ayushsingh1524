@@ -1,75 +1,179 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=39FF6A&center=true&vCenter=true&width=500&height=24&background=00000000&lines=%24+whoami" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=46&duration=4200&pause=2600&color=D4AF37&center=true&vCenter=true&width=620&height=64&background=00000000&lines=Ayush+Singh" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=4200&pause=2000&color=E8E3D3&center=true&vCenter=true&width=760&height=26&background=00000000&lines=LLM+Platform+Engineer+Intern+%40+Ethara+AI;RLHF+Post-Training+·+Systems+Programming+·+Cloud-Native+ML" />
-
-<img src="https://img.shields.io/badge/India-0B0B0F?style=flat-square&labelColor=0B0B0F&color=D4AF37"/>
-<img src="https://img.shields.io/badge/LeetCode_Rank_2%2C452%2C075-0B0B0F?style=flat-square&labelColor=0B0B0F&color=D4AF37"/>
-
-<br/><br/>
-
-<a href="https://about-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/▶_Interactive_Demo-0B0B0F?style=for-the-badge&color=D4AF37" alt="Interactive Demo"/></a>
-
-</div>
-
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=39FF6A&center=true&vCenter=true&width=320&height=20&background=00000000&lines=%24+cat+about.py" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=52&duration=4500&pause=3000&color=C9A227&center=true&vCenter=true&width=640&height=72&background=00000000&lines=Ayush+Singh" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=500&size=20&duration=4200&pause=2200&color=F1ECDD&center=true&vCenter=true&width=760&height=32&background=00000000&lines=LLM+Platform+Engineer+Intern+%40+Ethara+AI" />
+
+<sub><i>RLHF post-training · systems programming · cloud-native ML infrastructure</i></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/India-0A0A0C?style=flat-square&labelColor=0A0A0C&color=C9A227"/>&nbsp;
+<img src="https://img.shields.io/badge/LeetCode_Rank_2%2C452%2C075-0A0A0C?style=flat-square&labelColor=0A0A0C&color=C9A227"/>
+
 </div>
 
-```python
-class AyushSingh:
-    """LLM Platform Engineer · Systems Programmer · Builder"""
-
-    def __init__(self):
-        self.role       = "LLM Platform Engineer Intern @ Ethara AI"
-        self.focus      = ["RLHF post-training cycles", "AI evaluation datasets", "Cloud-native ML infra"]
-        self.exploring  = ["Kubernetes internals", "Distributed ML platforms", "Linux kernel & drivers"]
-        self.stack      = ["C", "C++", "Python", "Docker", "Kubernetes"]
-
-    def looking_to_collaborate_on(self):
-        return "Systems programming · networking tools · open-source infra (Linux / Docker / low-level protocols)"
-
-    def looking_for_help_with(self):
-        return "Kubernetes internals · production-grade ML serving pipelines at scale"
-
-    def ask_me_about(self):
-        return [
-            "C/C++ systems programming", "TCP/IP networking",
-            "Docker-based process isolation", "LLM fine-tuning with RLHF",
-            "Concurrent execution engines", "Secure coding on Linux",
-        ]
-
-    def fun_fact(self):
-        return (
-            "Built a sandboxed execution engine that runs untrusted "
-            "C, C++ and Python inside isolated Docker containers — "
-            "30+ concurrent requests, sub-2s latency, zero security "
-            "breaches across 500+ test runs."
-        )
-```
+<br/><br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=39FF6A&center=true&vCenter=true&width=340&height=20&background=00000000&lines=%24+cat+About.java" />
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=120&height=26&background=00000000&lines=ABOUT" />
 </div>
 
-```java
-public class AyushSingh {
-    // LLM Platform Engineer · Systems Programmer · Builder
+<p align="center" width="100%">
+<table align="center" width="760">
+<tr><td>
 
-    String   role      = "LLM Platform Engineer Intern @ Ethara AI";
-    String[] focus      = {"RLHF post-training cycles", "AI evaluation datasets", "Cloud-native ML infra"};
-    String[] exploring  = {"Kubernetes internals", "Distributed ML platforms", "Linux kernel & drivers"};
-    String[] stack      = {"C", "C++", "Python", "Docker", "Kubernetes"};
+<p align="center" style="color:#F1ECDD">
 
-    String funFact() {
-        return "Built a sandboxed execution engine that runs untrusted "
-             + "C, C++ and Python inside isolated Docker containers — "
-             + "30+ concurrent requests, sub-2s latency, zero security "
+Currently fine-tuning LLMs through RLHF post-training and building evaluation datasets at <b>Ethara AI</b>, alongside orchestrating containerized ML workloads on Kubernetes.
+
+Exploring Kubernetes internals, distributed ML platform engineering, and the Linux kernel — strengthening the systems foundation underneath everything I build.
+
+Open to collaborating on systems programming, networking tools, and open-source infrastructure — particularly anything touching Linux, Docker, or low-level protocols.
+
+</p>
+
+</td></tr>
+</table>
+</p>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=140&height=26&background=00000000&lines=RUNNING" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=2000&pause=99999&color=C9A227&center=true&vCenter=true&width=380&height=22&background=00000000&lines=%24+python+about.py" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=13&duration=3800&pause=99999&color=F1ECDD&center=true&vCenter=true&width=680&height=22&background=00000000&lines=LLM+Platform+Engineer+Intern+%40+Ethara+AI" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=13&duration=5200&pause=99999&color=F1ECDD&center=true&vCenter=true&width=760&height=22&background=00000000&lines=Built+a+sandboxed+execution+engine+for+untrusted+C%2FC%2B%2B%2FPython+%E2%80%94+30%2B+concurrent+requests%2C+zero+breaches+across+500%2B+runs." />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=12&duration=1400&pause=99999&color=6b6a72&center=true&vCenter=true&width=200&height=18&background=00000000&lines=process+finished%2C+exit+0" />
+
+<br/>
+
+<sub><a href="https://about-demo-ayushsingh1524.vercel.app" style="color:#6b6a72">full interactive build →</a></sub>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=180&height=26&background=00000000&lines=TECH+STACK" />
+</div>
+
+<div align="center">
+
+<sub>LANGUAGES</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/> <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+<br/><br/>
+
+<sub>BACKEND & FRAMEWORKS</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+
+<br/><br/>
+
+<sub>AI / ML</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy"/> <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA"/>
+
+<br/><br/>
+
+<sub>DATABASES & SEARCH</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+
+<br/><br/>
+
+<sub>DEVOPS, CLOUD & INFRA</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<br/><br/>
+
+<sub>TOOLS & DESIGN</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=200&height=26&background=00000000&lines=GITHUB" />
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayushsingh1524&hide_border=true&bg_color=0A0A0C&title_color=C9A227&text_color=F1ECDD&icon_color=C9A227&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh1524&hide_border=true&bg_color=0A0A0C&title_color=C9A227&text_color=F1ECDD&layout=compact&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/C9A227/ayushsingh1524" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ayushsingh1524&theme=dark&hide_border=true&background=0A0A0C&ring=C9A227&fire=C9A227"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=200&height=26&background=00000000&lines=LEETCODE" />
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Rank-2%2C452%2C075-C9A227?style=for-the-badge&labelColor=0A0A0C"/>
+<img src="https://img.shields.io/badge/Java-25_Solved-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-19_Solved-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-16_Solved-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<br/><br/>
+
+<sub>Dynamic Programming ×9 · Game Theory ×5 · Math ×15 · Hash Table ×10 · Array ×28 · Two Pointers ×16 · String ×15</sub>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/ayush_1524?theme=dark&font=JetBrains%20Mono&extension=activity&border=false" width="480"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=EB+Garamond&weight=600&size=15&duration=1&pause=999999&color=C9A227&center=true&vCenter=true&width=200&height=26&background=00000000&lines=CONNECT" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=C9A227"/></a>
+<a href="https://www.linkedin.com/in/ayush1015/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=C9A227"/></a>
+<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LeetCode-0A0A0C?style=for-the-badge&logo=leetcode&logoColor=C9A227"/></a>
+<a href="https://x.com/AyushSingh1524"><img src="https://img.shields.io/badge/X-0A0A0C?style=for-the-badge&logo=x&logoColor=C9A227"/></a>
+<a href="https://ayushsinghfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0C?style=for-the-badge&logo=firefox&logoColor=C9A227"/></a>
+<br/>
+<a href="https://instagram.com/tspiix"><img src="https://img.shields.io/badge/Instagram-0A0A0C?style=for-the-badge&logo=instagram&logoColor=C9A227"/></a>
+<a href="https://pinterest.com/singhayush9179"><img src="https://img.shields.io/badge/Pinterest-0A0A0C?style=for-the-badge&logo=pinterest&logoColor=C9A227"/></a>
+<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0C?style=for-the-badge&logo=gmail&logoColor=C9A227"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushsingh1524&color=C9A227&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/><br/>             + "30+ concurrent requests, sub-2s latency, zero security "
              + "breaches across 500+ test runs.";
     }
 
