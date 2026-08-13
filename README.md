@@ -1,5 +1,3 @@
-<br/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=52&duration=4500&pause=3000&color=C9A227&center=true&vCenter=true&width=640&height=72&background=00000000&lines=Ayush+Singh" />
@@ -57,7 +55,7 @@ Open to collaborating on systems programming, networking tools, and open-source 
 
 <br/>
 
-<sub><a href="https://about-demo-ayushsingh1524.vercel.app" style="color:#6b6a72">full interactive build →</a></sub>
+<sub><a href="https://about-demo.vercel.app" style="color:#6b6a72">full interactive build →</a></sub>
 
 </div>
 
