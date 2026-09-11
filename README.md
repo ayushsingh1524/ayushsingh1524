@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AYUSH%20SINGH&fontSize=46&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY&descAlignY=58&animation=fadeIn&color=0:030303,45:07120c,100:0b2b16&fontColor=e8fff0&descColor=69ff97" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AYUSH%20SINGH&fontSize=46&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&color=0:0b2b16,55:07120c,100:030303" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=69FF97&center=true&vCenter=true&width=900&lines=%3E+shipping+full-stack+systems;%3E+designing+data+pipelines+and+ML+infrastructure;%3E+breaking+abstractions+to+understand+the+machine;%3E+build.+measure.+secure.+iterate." alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=69FF97&center=true&vCenter=true&width=900&lines=%3E+shipping+full-stack+systems;%3E+building+data+pipelines;%3E+designing+secure+infrastructure;%3E+systems+that+scale" />
 
 <br/>
 
@@ -70,13 +70,13 @@ I care less about collecting technologies and more about understanding how syste
 ┌──────────────────────────────────────────────────────────────────┐
 │                         PRODUCT SURFACE                          │
 │              React • Next.js • TypeScript • UI                  │
-└──────────────────────────────┬───────────────────────────────────┘
+└──────────────────────────────┬──────────────────────────────────┘
                                │
                                ▼
 ┌──────────────────────────────────────────────────────────────────┐
 │                        APPLICATION LAYER                         │
 │                FastAPI • Node.js • Auth • APIs                  │
-└──────────────────────────────┬───────────────────────────────────┘
+└──────────────────────────────┬──────────────────────────────────┘
                                │
                  ┌─────────────┴─────────────┐
                  ▼                           ▼
@@ -235,6 +235,74 @@ A TypeScript-based developer-focused project representing the product side of my
 
 ## `// TELEMETRY::GITHUB`
 
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                     GITHUB // SYSTEM SIGNAL                     │
+├──────────────────────────────────────────────────────────────────┤
+│ USER          ayushsingh1524                                    │
+│ ROLE          Full Stack Engineer                               │
+│ FOCUS         Full Stack · Data · AI · Security · Systems       │
+│ LANGUAGES     Python · TypeScript · C++ · Java · SQL            │
+│ STATE         Active Development                                │
+└──────────────────────────────────────────────────────────────────┘
+
+ACTIVE REPOSITORY STREAM
+
+01 ── shopflow-data-engineering
+     ├─ Python
+     ├─ PostgreSQL
+     ├─ Apache Airflow
+     └─ Docker
+
+02 ── DailyProgress
+     ├─ Full Stack
+     ├─ TypeScript
+     └─ Product Engineering
+
+03 ── ml-inference-platform
+     ├─ FastAPI
+     ├─ Redis
+     ├─ PostgreSQL
+     └─ Docker
+
+04 ── cloud-threat-detection
+     ├─ AWS
+     ├─ Snowflake
+     ├─ Terraform
+     └─ Security Analytics
+
+05 ── network-packet-analyzer
+     ├─ C++
+     ├─ libpcap
+     └─ Network Security
+
+ENGINEERING ACTIVITY
+```
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39FF14/ayushsingh1524" width="95%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+```
+REPOSITORY SIGNAL
+
+┌──────────────────────────────┬───────────────────────────────────┐
+│ ENGINEERING AREA             │ SIGNAL                            │
+├──────────────────────────────┼───────────────────────────────────┤
+│ FULL STACK                   │ React · TypeScript · APIs         │
+│ DATA ENGINEERING             │ PostgreSQL · Airflow · Pandas    │
+│ ML INFRASTRUCTURE            │ FastAPI · Redis · Docker         │
+│ CLOUD SECURITY               │ AWS · Terraform · Snowflake      │
+│ SYSTEMS PROGRAMMING          │ C++ · libpcap · POSIX            │
+└──────────────────────────────┴───────────────────────────────────┘
+
+BUILDING ACROSS THE STACK // FROM INTERFACE TO INFRASTRUCTURE
+```
+
+</div>
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsingh1524&show_icons=true&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97&rank_icon=github" />
@@ -243,7 +311,7 @@ A TypeScript-based developer-focused project representing the product side of my
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ayushsingh1524&hide_border=true&background=050706&ring=69FF97&fire=69FF97&currStreakLabel=69FF97&sideLabels=C6D0C8&dates=667068&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=ayushsingh1524&hide_border=true&background=050706&ring=69FF97&fire=69FF97&currStreakLabel=69FF97&sideLabels=C6D0C8&dates=667068&currStreakNum=FFFFFF" />
 
 <br/><br/>
 
