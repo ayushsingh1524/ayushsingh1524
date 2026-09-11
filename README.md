@@ -6,16 +6,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AYUSH%20SINGH&fontSize=46&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&color=0:0b2b16,55:07120c,100:030303" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AYUSH%20SINGH&fontSize=46&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&color=0:0b2b16,55:07120c,100:030303&textColor=A8B89F" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=69FF97&center=true&vCenter=true&width=900&lines=%3E+shipping+full-stack+systems;%3E+building+data+pipelines;%3E+designing+secure+infrastructure;%3E+systems+that+scale" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=A8B89F&center=true&vCenter=true&width=900&lines=%3E+shipping+full-stack+systems;%3E+building+infrastructure;%3E+scaling+data+pipelines" />
 
 <br/>
 
-<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=github&logoColor=69FF97"/></a>
-<a href="https://www.linkedin.com/in/ayush-singh-7324b024b"><img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=69FF97"/></a>
-<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LEETCODE-090909?style=for-the-badge&logo=leetcode&logoColor=69FF97"/></a>
-<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/EMAIL-090909?style=for-the-badge&logo=gmail&logoColor=69FF97"/></a>
+<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=github&logoColor=A8B89F"/></a>
+<a href="https://www.linkedin.com/in/ayush-singh-7324b024b"><img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=A8B89F"/></a>
+<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LEETCODE-090909?style=for-the-badge&logo=leetcode&logoColor=A8B89F"/></a>
+<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/EMAIL-090909?style=for-the-badge&logo=gmail&logoColor=A8B89F"/></a>
 
 </div>
 
@@ -67,13 +67,13 @@ I care less about collecting technologies and more about understanding how syste
 ## `// ARCHITECTURE::MAP`
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐
 │                         PRODUCT SURFACE                          │
 │              React • Next.js • TypeScript • UI                  │
 └──────────────────────────────┬──────────────────────────────────┘
                                │
                                ▼
-┌──────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐
 │                        APPLICATION LAYER                         │
 │                FastAPI • Node.js • Auth • APIs                  │
 └──────────────────────────────┬──────────────────────────────────┘
@@ -87,10 +87,10 @@ I care less about collecting technologies and more about understanding how syste
                  │                           │
                  └─────────────┬─────────────┘
                                ▼
-┌──────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐
 │                      INFRASTRUCTURE LAYER                        │
 │        Docker • AWS • Kubernetes • Terraform • CI/CD            │
-└──────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -214,19 +214,19 @@ A TypeScript-based developer-focused project representing the product side of my
 <div align="center">
 
 <a href="https://github.com/ayushsingh1524/shopflow-data-engineering">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=shopflow-data-engineering&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=shopflow-data-engineering&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
 </a>
 
 <a href="https://github.com/ayushsingh1524/ml-inference-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=ml-inference-platform&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=ml-inference-platform&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
 </a>
 
 <a href="https://github.com/ayushsingh1524/cloud-threat-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=cloud-threat-detection&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=cloud-threat-detection&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
 </a>
 
 <a href="https://github.com/ayushsingh1524/network-packet-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=network-packet-analyzer&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=network-packet-analyzer&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
 </a>
 
 </div>
@@ -236,15 +236,15 @@ A TypeScript-based developer-focused project representing the product side of my
 ## `// TELEMETRY::GITHUB`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────────┐
 │                     GITHUB // SYSTEM SIGNAL                     │
-├──────────────────────────────────────────────────────────────────┤
+├─────────────────────────────────────────────────────────────────┤
 │ USER          ayushsingh1524                                    │
 │ ROLE          Full Stack Engineer                               │
 │ FOCUS         Full Stack · Data · AI · Security · Systems       │
 │ LANGUAGES     Python · TypeScript · C++ · Java · SQL            │
 │ STATE         Active Development                                │
-└──────────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────┘
 
 ACTIVE REPOSITORY STREAM
 
@@ -281,22 +281,22 @@ ENGINEERING ACTIVITY
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39FF14/ayushsingh1524" width="95%" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/A8B89F/ayushsingh1524" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ```
 REPOSITORY SIGNAL
 
-┌──────────────────────────────┬───────────────────────────────────┐
+┌──────────────────────────────┬──────────────────────────────────┐
 │ ENGINEERING AREA             │ SIGNAL                            │
-├──────────────────────────────┼───────────────────────────────────┤
+├──────────────────────────────┼──────────────────────────────────┤
 │ FULL STACK                   │ React · TypeScript · APIs         │
 │ DATA ENGINEERING             │ PostgreSQL · Airflow · Pandas    │
 │ ML INFRASTRUCTURE            │ FastAPI · Redis · Docker         │
 │ CLOUD SECURITY               │ AWS · Terraform · Snowflake      │
 │ SYSTEMS PROGRAMMING          │ C++ · libpcap · POSIX            │
-└──────────────────────────────┴───────────────────────────────────┘
+└──────────────────────────────┴──────────────────────────────────┘
 
 BUILDING ACROSS THE STACK // FROM INTERFACE TO INFRASTRUCTURE
 ```
@@ -305,17 +305,17 @@ BUILDING ACROSS THE STACK // FROM INTERFACE TO INFRASTRUCTURE
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsingh1524&show_icons=true&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&icon_color=69FF97&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsingh1524&show_icons=true&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh1524&layout=compact&hide_border=true&bg_color=050706&title_color=69FF97&text_color=C6D0C8&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ayushsingh1524&hide_border=true&background=050706&ring=69FF97&fire=69FF97&currStreakLabel=69FF97&sideLabels=C6D0C8&dates=667068&currStreakNum=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh1524&layout=compact&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/69FF97/ayushsingh1524" width="92%" />
+<img src="https://streak-stats.demolab.com?user=ayushsingh1524&hide_border=true&background=050706&ring=A8B89F&fire=A8B89F&currStreakLabel=A8B89F&sideLabels=C6D0C8&dates=667068&currStreakNum=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/A8B89F/ayushsingh1524" width="92%" />
 
 </div>
 
@@ -365,10 +365,10 @@ BUILDING ACROSS THE STACK // FROM INTERFACE TO INFRASTRUCTURE
 
 <br/>
 
-<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GITHUB-050706?style=for-the-badge&logo=github&logoColor=69FF97"/></a>
-<a href="https://www.linkedin.com/in/ayush-singh-7324b024b"><img src="https://img.shields.io/badge/LINKEDIN-050706?style=for-the-badge&logo=linkedin&logoColor=69FF97"/></a>
-<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050706?style=for-the-badge&logo=gmail&logoColor=69FF97"/></a>
-<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LEETCODE-050706?style=for-the-badge&logo=leetcode&logoColor=69FF97"/></a>
+<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GITHUB-050706?style=for-the-badge&logo=github&logoColor=A8B89F"/></a>
+<a href="https://www.linkedin.com/in/ayush-singh-7324b024b"><img src="https://img.shields.io/badge/LINKEDIN-050706?style=for-the-badge&logo=linkedin&logoColor=A8B89F"/></a>
+<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050706?style=for-the-badge&logo=gmail&logoColor=A8B89F"/></a>
+<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LEETCODE-050706?style=for-the-badge&logo=leetcode&logoColor=A8B89F"/></a>
 
 <br/><br/>
 
@@ -384,7 +384,7 @@ ayush@future-stack:~$ _
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushsingh1524&label=PROFILE%20SIGNAL&color=69ff97&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ayushsingh1524&label=PROFILE%20SIGNAL&color=A8B89F&style=flat-square" />
 
 <br/><br/>
 
