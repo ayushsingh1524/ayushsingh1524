@@ -211,7 +211,8 @@ A TypeScript-based developer-focused project representing the product side of my
 
 ## `// REPOSITORY::GRID`
 
-<div align="center">
+<table>
+<tr>
 
 <a href="https://github.com/ayushsingh1524/shopflow-data-engineering">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=shopflow-data-engineering&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
@@ -229,7 +230,84 @@ A TypeScript-based developer-focused project representing the product side of my
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsingh1524&repo=network-packet-analyzer&hide_border=true&bg_color=050706&title_color=A8B89F&text_color=C6D0C8&icon_color=A8B89F" />
 </a>
 
-</div>
+**Core**
+- ETL pipeline
+- Data quality checks
+- PostgreSQL ingestion
+- Airflow orchestration
+- Dockerized environment
+- Automated testing
+
+[OPEN REPOSITORY →](https://github.com/ayushsingh1524/shopflow-data-engineering)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [ml-inference-platform](https://github.com/ayushsingh1524/ml-inference-platform)
+
+`FastAPI` `Redis` `PostgreSQL` `Docker`
+
+Containerized ML inference platform designed around async APIs, caching, authentication and telemetry.
+
+**Core**
+- Async inference APIs
+- Redis caching
+- JWT / API authentication
+- PostgreSQL persistence
+- Health monitoring
+- CI/CD
+
+[OPEN REPOSITORY →](https://github.com/ayushsingh1524/ml-inference-platform)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ [cloud-threat-detection](https://github.com/ayushsingh1524/cloud-threat-detection)
+
+`Python` `AWS` `Snowflake` `Terraform`
+
+Cloud-security analytics pipeline for detecting suspicious behavior across AWS telemetry.
+
+**Core**
+- CloudTrail analysis
+- IAM monitoring
+- Detection rules
+- MITRE ATT&CK mapping
+- Terraform
+- Security analytics
+
+[OPEN REPOSITORY →](https://github.com/ayushsingh1524/cloud-threat-detection)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [network-packet-analyzer](https://github.com/ayushsingh1524/network-packet-analyzer)
+
+`C++` `libpcap` `ncurses` `CMake`
+
+Low-level network monitoring and intrusion-detection utility using live packet inspection.
+
+**Core**
+- TCP / UDP / ARP / ICMP
+- SYN flood detection
+- ICMP flood detection
+- Port scan detection
+- Terminal dashboard
+- Threat logging
+
+[OPEN REPOSITORY →](https://github.com/ayushsingh1524/network-packet-analyzer)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
