@@ -6,16 +6,29 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AYUSH%20SINGH&fontSize=46&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&color=0:0b2b16,55:07120c,100:030303&textColor=A8B89F" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=A8B89F&center=true&vCenter=true&width=900&lines=%3E+shipping+full-stack+systems;%3E+building+infrastructure;%3E+scaling+data+pipelines" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020604,45:061A10,100:020403&text=AYUSH%20SINGH&fontSize=58&fontColor=CFFFD9&fontAlignY=36&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20AI%20SYSTEMS%20%E2%80%A2%20DATA%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&descSize=17&descAlignY=57" />
 
 <br/>
 
-<a href="https://github.com/ayushsingh1524"><img src="https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=github&logoColor=A8B89F"/></a>
-<a href="https://www.linkedin.com/in/ayush-singh-7324b024b"><img src="https://img.shields.io/badge/LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=A8B89F"/></a>
-<a href="https://leetcode.com/u/ayush_1524/"><img src="https://img.shields.io/badge/LEETCODE-090909?style=for-the-badge&logo=leetcode&logoColor=A8B89F"/></a>
-<a href="mailto:singhayush9179@gmail.com"><img src="https://img.shields.io/badge/EMAIL-090909?style=for-the-badge&logo=gmail&logoColor=A8B89F"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=A8C7A0&center=true&vCenter=true&width=650&lines=%3E+shipping+full-stack+systems;%3E+building+from+interface+to+infra;%3E+turning+ideas+into+working+systems" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/ayushsingh1524">
+<img src="https://img.shields.io/badge/GITHUB-090C0A?style=for-the-badge&logo=github&logoColor=B6C9B2"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-singh-7324b024b">
+<img src="https://img.shields.io/badge/LINKEDIN-090C0A?style=for-the-badge&logo=linkedin&logoColor=B6C9B2"/>
+</a>
+
+<a href="https://leetcode.com/u/ayush_1524/">
+<img src="https://img.shields.io/badge/LEETCODE-090C0A?style=for-the-badge&logo=leetcode&logoColor=B6C9B2"/>
+</a>
+
+<a href="mailto:singhayush9179@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-090C0A?style=for-the-badge&logo=gmail&logoColor=B6C9B2"/>
+</a>
 
 </div>
 
